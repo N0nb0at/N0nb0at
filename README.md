@@ -16,7 +16,7 @@ Java · Python · TypeScript · Shell · LLM agents · CLI infrastructure · Plu
 
 #### 📦 Open source
 
-**[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — Reported [#8422](https://github.com/NousResearch/hermes-agent/issues/8422) (plugin skill name collisions), proposed a solution approach that was adopted and merged upstream via [#9786](https://github.com/NousResearch/hermes-agent/pull/9786).
+**[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — Reported [#8422](https://github.com/NousResearch/hermes-agent/issues/8422) (plugin skill name collisions), proposed a solution approach that was adopted [#9433](https://github.com/NousResearch/hermes-agent/pull/9334) and merged upstream via [#9786](https://github.com/NousResearch/hermes-agent/pull/9786).
 
 #### 💡 Interests
 
