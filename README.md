@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi, I'm N0nb0at 👋
 
-<!--
-**N0nb0at/N0nb0at** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer building developer tooling and LLM agent systems. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔧 What I work with
+
+Java · Python · TypeScript · Shell · LLM agents · CLI infrastructure · Plugin architectures
+
+#### 🌱 Currently exploring
+
+- Agent tool orchestration and skill composition patterns
+- Local-first developer tooling with extensible plugin systems
+- Test strategies for AI-assisted development workflows
+
+#### 📦 Open source
+
+**[NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent)** — Reported [#8422](https://github.com/NousResearch/hermes-agent/issues/8422) (plugin skill name collisions), proposed a solution approach that was adopted and merged upstream via [#9786](https://github.com/NousResearch/hermes-agent/pull/9786).
+
+#### 💡 Interests
+
+LLM agent systems · Developer experience · Plugin architectures · Open source collaboration · Code review culture · Test-driven refactoring
+
+#### 📮 Find me elsewhere
+
+- 🌐 Personal site: [n0nb0at.github.io](https://n0nb0at.github.io/)
+- 💬 Open to collaboration on agent tooling and plugin systems
